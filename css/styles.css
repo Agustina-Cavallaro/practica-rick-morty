@@ -1,0 +1,13 @@
+.characterList{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+
+.characters{
+    display: block;
+    margin: 1%;
+    border: solid 1px black;
+    width: fit-content;
+
+} 
